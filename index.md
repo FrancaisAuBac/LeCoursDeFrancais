@@ -1,29 +1,30 @@
-## Welcome to GitHub Pages
+## Le Cours de Français
 
-You can use the [editor on GitHub](https://github.com/FrancaisAuBac/LeCoursDeFrancais/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Vous pouvez utiliser cet [editor on GitHub](https://github.com/FrancaisAuBac/LeCoursDeFrancais/edit/gh-pages/index.md) pour mettre à jour et afficher le contenu de votre site web sous forme de fichiers Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chaque fois que ce dossier sera mis à jour ("commit"), GitHub Pages will lancera [Jekyll](https://jekyllrb.com/) pour reconstruire les pages du site, en utilisant le contenu des fichiers Markdown (avec extension .md).
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Le langage Markdown est un système de syntaxe facile à utiliser et rapide à l'utilisation pour personnaliser les écrits. 
+Il contient des conventions syntaxiques pour :
 
 ```markdown
-Syntax highlighted code block
+Code dans lequel est mise en évidence la syntaxe Markdown
 
-# Header 1
-## Header 2
-### Header 3
+# En-tête de niveau 1
+## En-tête de niveau 2
+### En-tête de niveau 3
 
-- Bulleted
-- List
+- Liste à puces
+- Second élément de la liste
 
-1. Numbered
-2. List
+1. Liste à numéros
+2. Second élément de la liste numérique
 
-**Bold** and _Italic_ and `Code` text
+Texte en **Gras** et en _italiques_ ainsi que du `Code` (texte de programmation)
 
-[Link](url) and ![Image](src)
+[Lien](url) et ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
